@@ -7,4 +7,5 @@ nltk
 spacy
 scikit-learn
 sqlalchemy
+pytesseract
 
