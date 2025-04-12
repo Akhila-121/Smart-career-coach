@@ -1,7 +1,7 @@
 import streamlit as st
 from resume_parser import parse_resume
 from match_engine import match_jobs
-from utils.db_utils import get_learning_resources
+from db_utils import get_learning_resources
 
 st.set_page_config(page_title="Smart Career Coach", layout="centered")
 
